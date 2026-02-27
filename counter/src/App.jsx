@@ -13,7 +13,7 @@ function App() {
     
     //let updated = counter + 1; the variable stores the sunction that has to performed
     setCounter(counter+1) //here this set counter function is updating the value of the counter uding update variable
-    //setcounter(counter + 1).. we can also write like this without using any extra variable
+    //setcounter(counter + 1)... we can also write like this without using any extra variable
     
     /*
     setCounter(counter+1)
